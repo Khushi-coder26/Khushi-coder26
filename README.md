@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-coder26&" alt="khushi-coder26" /></p>
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
